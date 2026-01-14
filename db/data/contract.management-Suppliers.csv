@@ -1,0 +1,5 @@
+ID,name,contactPerson,email,phone,address,status,createdAt,modifiedAt
+550e8400-e29b-41d4-a716-446655440001,TechCorp Solutions,John Smith,john.smith@techcorp.com,+1-555-0101,123 Technology Drive New York NY 10001,Active,2024-01-01T00:00:00Z,2024-01-01T00:00:00Z
+550e8400-e29b-41d4-a716-446655440002,Global Manufacturing Ltd,Sarah Johnson,sarah.johnson@globalmanuf.com,+1-555-0102,456 Industrial Blvd Chicago IL 60601,Active,2024-01-01T00:00:00Z,2024-01-01T00:00:00Z
+550e8400-e29b-41d4-a716-446655440003,Office Supplies Inc,Mike Davis,mike.davis@officesupplies.com,+1-555-0103,789 Business Park Atlanta GA 30301,Active,2024-01-01T00:00:00Z,2024-01-01T00:00:00Z
+550e8400-e29b-41d4-a716-446655440004,Construction Materials Co,Lisa Wilson,lisa.wilson@constructmat.com,+1-555-0104,321 Builder Street Houston TX 77001,Inactive,2024-01-01T00:00:00Z,2024-01-01T00:00:00Z
