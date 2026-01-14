@@ -24,6 +24,7 @@ entity PurchaseContracts : cuid, managed {
   totalValue    : Decimal(15,2);
   currency      : Currency;
   status        : String(10) default 'Draft';
+  popo          : String;
   
   // Navigation
   budgets       : Composition of many ContractBudgets on budgets.contract = $self;
